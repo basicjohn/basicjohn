@@ -1,6 +1,6 @@
 
 ## 🚀 About Me ( Hi! 👋 )
-I'm a Frontend Software Engineer working in Portland, Oregon
+I'm a Software Engineer working in Portland, Oregon
 
 ---
 
