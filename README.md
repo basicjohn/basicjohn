@@ -1,6 +1,6 @@
 
 ## 🚀 About Me ( Hi! 👋 )
-I'm a Software Engineer out of Portland, Oregon. I'm looking for new opportunities in the area and am open to considering remote work. My work in recent years has been confidential, so a portfolio site is just around the corner. Stay tuned!
+I'm a Software Engineer & UX designer out of Portland, Oregon. I'm looking for new opportunities in the area and am open to considering remote work. My work in recent years has been confidential, so a portfolio site is just around the corner. Stay tuned!
 ---
 
 [![Linkedin: Ghazi](https://img.shields.io/badge/-John_Edmondson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnedmondsondev/)](https://www.linkedin.com/in/johnedmondsondev/)
