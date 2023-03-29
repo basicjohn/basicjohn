@@ -10,7 +10,7 @@ I am a Software Engineer and UX Designer based in Portland, Oregon. I am activel
 ---
 
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/basicjohn), [Instagram](https://instagram.com/basicjohn)**
+  **[Twitter](https://twitter.com/basicjohn), [LinkedIn](https://www.linkedin.com/in/johnedmondsondev/), [JohnEdmondson.dev](https://www.johnedmondson.dev/)**
 
 ---
 <a href="https://www.buymeacoffee.com/edmondsonj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 174px !important;" ></a>
