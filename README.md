@@ -1,6 +1,6 @@
 
 ## 🚀 Oh Hey!
-A development career is an iterative process and my GitHub has all the successes and failures along the way. What you'll find are current personal projects and student-made projects from years past. Enjoy!
+A development career is an iterative process and my GitHub has all the successes and failures from along the way. What you'll find are my current personal projects and my student-made projects from years past. Enjoy!
 ---
 
 [![Linkedin: BasicJohn](https://img.shields.io/badge/-John_Edmondson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnedmondsondev/)](https://www.linkedin.com/in/johnedmondsondev/)
