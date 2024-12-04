@@ -5,7 +5,7 @@
 ---
 
 - The Socials:
-  **[LinkedIn](https://www.linkedin.com/in/johnedmondsondev/), [Twitter](https://twitter.com/basicjohn), [Pinterest](https://pinterest.com/basicjohn)**
+  **[LinkedIn](https://www.linkedin.com/in/johnedmondsondev/), [Pinterest](https://pinterest.com/basicjohn)**
 
 ---
 <a href="https://www.buymeacoffee.com/edmondsonj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 174px !important;" ></a>
